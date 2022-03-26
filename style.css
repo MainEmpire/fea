@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: black;
+}
+logo img{
+    background-color: grey;
+}
+nav {
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color: black;
+}
+i{
+    color:black;
+    font-size: larger;   
+}
+footer {
+    background-color: blueviolet;
+}
+p {
+    background: blanchedalmond;
+}
